@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello Dosto pipeline finaary run h gayi"
+  echo "Hello Dosto pipeline finally run h gayi"
 }
